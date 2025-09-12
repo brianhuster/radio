@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4
@@ -30,12 +30,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b $branch
-          git add radios.m3u8
+          git add ./vietnam.m3u8
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update radios.m3u8 ($(date +%Y-%m-%d))"
+          git commit -m "Update vietnam.m3u8 ($(date +%Y-%m-%d))"
           git push origin $branch
 
       - name: Create Pull Request

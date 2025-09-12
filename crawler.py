@@ -19,14 +19,15 @@ data = json.loads(script_tag.string)
 radios = data["props"]["pageProps"]["radios"]
 
 with open("vietnam.m3u8", "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
+    f.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/brianhuster/radio/refs/heads/main/schedule/hanoi.xml"\n')
     for r in radios:
         name = r.get("name", "")
         logo = r.get("imageUrl", "")
         stream = r.get("streamUrl", "")
+        id = r.get("Url", "")
 
         if stream.startswith("/"):
             stream = url + stream
 
-        f.write(f'#EXTINF:-1 tvg-id="" tvg-logo="{logo}" group-title="Radio",{name.replace("-", "")}\n')
+        f.write(f'#EXTINF:-1 tvg-id="{id}" tvg-logo="{logo}" group-title="Radio",{name.replace("-", "")}\n')
         f.write(f"{stream}\n")

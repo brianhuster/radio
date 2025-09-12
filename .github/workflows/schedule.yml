@@ -1,0 +1,34 @@
+name: Update Hanoi Schedule
+
+on:
+  schedule:
+    - cron: "1 17 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python schedule.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedule
+          git commit -m "Update schedule $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin main

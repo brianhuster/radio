@@ -1,79 +1,79 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdv8.webp" group-title="Radio",VOH FM 99.9MHz
+#EXTM3U url-tvg="https://raw.githubusercontent.com/brianhuster/radio/refs/heads/main/schedule/vietnam.xml"
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOH-99.9Mhz" tvg-logo="https://s14.gifyu.com/images/bxdv8.webp" group-title="Radio",VOH FM 99.9MHz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdv6.webp" group-title="Radio",VOH FM 95.6MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOH-95.6Mhz" tvg-logo="https://s14.gifyu.com/images/bxdv6.webp" group-title="Radio",VOH FM 95.6MHz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdv4.webp" group-title="Radio",VOH FM 87.7MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOH-87.7Mhz" tvg-logo="https://s14.gifyu.com/images/bxdv4.webp" group-title="Radio",VOH FM 87.7MHz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvg.webp" group-title="Radio",VOH AM 610KHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOH-610KHz" tvg-logo="https://s14.gifyu.com/images/bxdvg.webp" group-title="Radio",VOH AM 610KHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdva.webp" group-title="Radio",VOV GT HN
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV-GT-HN" tvg-logo="https://s14.gifyu.com/images/bxdva.webp" group-title="Radio",VOV GT HN
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvZ.webp" group-title="Radio",VOV GT HCM
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV-GT-HCM" tvg-logo="https://s14.gifyu.com/images/bxdvZ.webp" group-title="Radio",VOV GT HCM
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvf.webp" group-title="Radio",VOV Mekong FM 90Mhz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV-Mekong-FM-90Mhz" tvg-logo="https://s14.gifyu.com/images/bxdvf.webp" group-title="Radio",VOV Mekong FM 90Mhz
 https://stream.vovmedia.vn/vovmekong
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvV.webp" group-title="Radio",VOV24/7  FM 104MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV247-FM-104MHz" tvg-logo="https://s14.gifyu.com/images/bxdvV.webp" group-title="Radio",VOV24/7  FM 104MHz
 https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvR.webp" group-title="Radio",VOV1  AM 675KHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV1-AM-675KHz" tvg-logo="https://s14.gifyu.com/images/bxdvR.webp" group-title="Radio",VOV1  AM 675KHz
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvi.webp" group-title="Radio",VOV2  FM 102.7MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV2-FM-102.7MHz" tvg-logo="https://s14.gifyu.com/images/bxdvi.webp" group-title="Radio",VOV2  FM 102.7MHz
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvj.webp" group-title="Radio",VOV3  FM 104.5MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV3-FM-104.5MHz" tvg-logo="https://s14.gifyu.com/images/bxdvj.webp" group-title="Radio",VOV3  FM 104.5MHz
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvC.webp" group-title="Radio",VOV4  Khu vực Miền Trung
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV4-Phat-Thanh-Dan-Toc" tvg-logo="https://s14.gifyu.com/images/bxdvC.webp" group-title="Radio",VOV4  Khu vực Miền Trung
 https://stream.vovmedia.vn/vov4mt
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvU.webp" group-title="Radio",VOV5  FM 105.5MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-VOV5-FM-105.5MHz" tvg-logo="https://s14.gifyu.com/images/bxdvU.webp" group-title="Radio",VOV5  FM 105.5MHz
 https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvp.webp" group-title="Radio",Hà Nội  FM 90MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Ha-Noi-90MHz" tvg-logo="https://s14.gifyu.com/images/bxdvp.webp" group-title="Radio",Hà Nội  FM 90MHz
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvL.webp" group-title="Radio",Hà Nội  FM 96MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Ha-Noi-96MHz" tvg-logo="https://s14.gifyu.com/images/bxdvL.webp" group-title="Radio",Hà Nội  FM 96MHz
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdv9.webp" group-title="Radio",Bắc Ninh  FM 92.1MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Bac-Ninh" tvg-logo="https://s14.gifyu.com/images/bxdv9.webp" group-title="Radio",Bắc Ninh  FM 92.1MHz
 https://stream.thingnet.vn/radio/bacninh_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvE.webp" group-title="Radio",Bến Tre  FM 97.9MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Ben-Tre" tvg-logo="https://s14.gifyu.com/images/bxdvE.webp" group-title="Radio",Bến Tre  FM 97.9MHz
 https://radiovietnamonline.com//api/v3/radios/phatthanh/radio-vinhlong.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdky.webp" group-title="Radio",Bình Dương  FM 92.5MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Binh-Duong-FM-92.5MHz" tvg-logo="https://s14.gifyu.com/images/bxdky.webp" group-title="Radio",Bình Dương  FM 92.5MHz
 https://radiovietnamonline.com//api/v3/radios/phatthanh/radio-binhduong.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdIL.webp" group-title="Radio",Bình Phước  FM 89.4MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Binh-Phuoc-FM-89.4MHz-" tvg-logo="https://s14.gifyu.com/images/bxdIL.webp" group-title="Radio",Bình Phước  FM 89.4MHz
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdkA.webp" group-title="Radio",Bình Thuận  FM 102MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Binh-Thuan" tvg-logo="https://s14.gifyu.com/images/bxdkA.webp" group-title="Radio",Bình Thuận  FM 102MHz
 https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdkP.webp" group-title="Radio",Cần Thơ  FM 93.7MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Can-Tho" tvg-logo="https://s14.gifyu.com/images/bxdkP.webp" group-title="Radio",Cần Thơ  FM 93.7MHz
 https://live.canthotv.vn/live/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdv2.webp" group-title="Radio",Đồng Nai  FM 97.5Mhz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Dong-Nai-97.5MHz" tvg-logo="https://s14.gifyu.com/images/bxdv2.webp" group-title="Radio",Đồng Nai  FM 97.5Mhz
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvS.webp" group-title="Radio",Đồng Tháp  FM 98.4Mhz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Dong-Thap" tvg-logo="https://s14.gifyu.com/images/bxdvS.webp" group-title="Radio",Đồng Tháp  FM 98.4Mhz
 https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvb.webp" group-title="Radio",Hà Giang
+#EXTINF:-1 tvg-id="dai-phat-thanh-Ha-Giang" tvg-logo="https://s14.gifyu.com/images/bxdvb.webp" group-title="Radio",Hà Giang
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvM.webp" group-title="Radio",Hải Dương
+#EXTINF:-1 tvg-id="dai-phat-thanh-Hai-Duong" tvg-logo="https://s14.gifyu.com/images/bxdvM.webp" group-title="Radio",Hải Dương
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvs.webp" group-title="Radio",Hà Tĩnh  FM 97.8MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Ha-Tinh" tvg-logo="https://s14.gifyu.com/images/bxdvs.webp" group-title="Radio",Hà Tĩnh  FM 97.8MHz
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvx.webp" group-title="Radio",Hậu Giang  FM 89.6MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Hau-Giang" tvg-logo="https://s14.gifyu.com/images/bxdvx.webp" group-title="Radio",Hậu Giang  FM 89.6MHz
 https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvw.webp" group-title="Radio",Lâm Đồng
+#EXTINF:-1 tvg-id="dai-phat-thanh-Lam-Dong" tvg-logo="https://s14.gifyu.com/images/bxdvw.webp" group-title="Radio",Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvv.webp" group-title="Radio",Quảng Nam  FM 97.6MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Quang-Nam" tvg-logo="https://s14.gifyu.com/images/bxdvv.webp" group-title="Radio",Quảng Nam  FM 97.6MHz
 https://beta.qrt.vn/phatthanh/QRT.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvm.webp" group-title="Radio",Quảng Ngãi  FM 102.9MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Quang-Ngai" tvg-logo="https://s14.gifyu.com/images/bxdvm.webp" group-title="Radio",Quảng Ngãi  FM 102.9MHz
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvq.webp" group-title="Radio",Quảng Ninh 1  FM 97.8MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Quang-Ninh-1" tvg-logo="https://s14.gifyu.com/images/bxdvq.webp" group-title="Radio",Quảng Ninh 1  FM 97.8MHz
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdv7.webp" group-title="Radio",Quảng Ninh 2  FM 94.7MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Quang-Ninh-2" tvg-logo="https://s14.gifyu.com/images/bxdv7.webp" group-title="Radio",Quảng Ninh 2  FM 94.7MHz
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvI.webp" group-title="Radio",Quảng Trị
+#EXTINF:-1 tvg-id="dai-phat-thanh-Quang-Tri" tvg-logo="https://s14.gifyu.com/images/bxdvI.webp" group-title="Radio",Quảng Trị
 https://quangtritv.vn/audios/audiovnpt2024.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvd.webp" group-title="Radio",Sóc Trăng  FM 100.4MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Soc-Trang" tvg-logo="https://s14.gifyu.com/images/bxdvd.webp" group-title="Radio",Sóc Trăng  FM 100.4MHz
 https://pa.thst.vn/liveeventf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvl.webp" group-title="Radio",Thái Bình  FM 97MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Thai-Binh" tvg-logo="https://s14.gifyu.com/images/bxdvl.webp" group-title="Radio",Thái Bình  FM 97MHz
 https://1253668792.e.cdneverest.net/y0b3PjjUJ6pcaWCPbrDn6Q/1753734329/live/2856ed45cc2223b40e0b770b91c12dbce17/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvu.webp" group-title="Radio",Tiền Giang  FM 96.2MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Tien-Giang-FM-96.2MHz" tvg-logo="https://s14.gifyu.com/images/bxdvu.webp" group-title="Radio",Tiền Giang  FM 96.2MHz
 http://123.25.238.45:1935/live/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvW.webp" group-title="Radio",Tuyên Quang  FM 95.6MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Tuyen-Quang" tvg-logo="https://s14.gifyu.com/images/bxdvW.webp" group-title="Radio",Tuyên Quang  FM 95.6MHz
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvc.webp" group-title="Radio",Vĩnh Long  FM 90.2MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-Vinh-Long" tvg-logo="https://s14.gifyu.com/images/bxdvc.webp" group-title="Radio",Vĩnh Long  FM 90.2MHz
 https://radiovietnamonline.com//api/v3/radios/phatthanh/radio-vinhlong.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s14.gifyu.com/images/bxdvY.webp" group-title="Radio",Yên Bái  FM 94MHz
+#EXTINF:-1 tvg-id="dai-phat-thanh-yen-bai" tvg-logo="https://s14.gifyu.com/images/bxdvY.webp" group-title="Radio",Yên Bái  FM 94MHz
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
