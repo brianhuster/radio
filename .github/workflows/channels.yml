@@ -44,7 +44,7 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref_name }}
-          title: "Update radios.m3u8 ($(date +%Y-%m-%d))"
-          body: "This PR updates radios.m3u8 with the latest data."
+          branch: "update-radios-$(date +%Y%m%d)"
+          title: "Update radios ($(date +%Y-%m-%d))"
+          body: "This PR updates vietnam.m3u8 with the latest data."
           base: main
