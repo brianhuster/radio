@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          branch="update-radios-$(date +%Y%m%d)"
+          branch="update-radios-${{ github.run_id }}"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b $branch
