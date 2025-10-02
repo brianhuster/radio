@@ -37,7 +37,7 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update vietnam.m3u8 ($(date +%Y-%m-%d))"
+          git commit -m "Update vietnam.m3u8 ${{ github.run_id }}"
           git push origin $branch
 
       - name: Create Pull Request
@@ -45,6 +45,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: "update-radios-$(date +%Y%m%d)"
-          title: "Update radios ($(date +%Y-%m-%d))"
+          title: "Update radios ${{ github.run_id }}"
           body: "This PR updates vietnam.m3u8 with the latest data."
           base: main
