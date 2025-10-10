@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+	<channel id="dai-phat-thanh-Ha-Noi-90MHz">
+		<display-name>dai-phat-thanh-Ha-Noi-90MHz</display-name>
+	</channel>
+	<channel id="dai-phat-thanh-Ha-Noi-96MHz">
+		<display-name>dai-phat-thanh-Ha-Noi-96MHz</display-name>
+	</channel>
 	<channel id="dai-phat-thanh-VOH-99.9Mhz">
 		<display-name>dai-phat-thanh-VOH-99.9Mhz</display-name>
 	</channel>
@@ -21,579 +27,804 @@
 	<channel id="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<display-name>dai-phat-thanh-VOV-Mekong-FM-90Mhz</display-name>
 	</channel>
-	<programme start="20251010000000 +0700" stop="20251010004500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Thành phố lên đèn</title>
-		<desc lang="vi">Để TPHCM có thể vươn lên trở thành một siêu đô thị hiện đại, bền vững và nhân văn</desc>
+	<programme start="20251011050200 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Nhạc không lời Việt Nam.</title>
+		<desc lang="vi">Nhạc thính phòng – Giao hưởng Việt Nam</desc>
 	</programme>
-	<programme start="20251010004500 +0700" stop="20251010010000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Thông tin và quảng cáo</title>
-		<desc lang="vi">Đảo Ngọc Vừng</desc>
+	<programme start="20251011053000 +0700" stop="20251011060000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Âm nhạc dành cho bạn trẻ.</title>
+		<desc lang="vi">A song for you</desc>
 	</programme>
-	<programme start="20251010010000 +0700" stop="20251010013000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Chạm đa chiều</title>
-		<desc lang="vi">Chính phủ đặt mục tiêu GDP bình quân đạt 8.500 USD/người vào năm 2030</desc>
+	<programme start="20251011060000 +0700" stop="20251011063000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Thời sự.</title>
 	</programme>
-	<programme start="20251010013000 +0700" stop="20251010020000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Dọc đường di sản</title>
-		<desc lang="vi">Nghe Nhà nghiên cứu Huế với chuyện chiếc áo dài ngũ thân trở thành Di sản Tri thức Huế ! </desc>
+	<programme start="20251011063000 +0700" stop="20251011100000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Hà Nội – Cao điểm sáng</title>
+		<desc lang="vi"> </desc>
 	</programme>
-	<programme start="20251010020000 +0700" stop="20251010023000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Ca khúc Việt Nam 30p</title>
-		<desc lang="vi">Ca khúc Việt Nam - 01-09-2025 - Viết tiếp câu chuyện hoà bình</desc>
+	<programme start="20251011100000 +0700" stop="20251011103000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Tạp chí văn học nghệ thuật Thủ đô</title>
 	</programme>
-	<programme start="20251010023000 +0700" stop="20251010033000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Sàn diễn đời và nghề</title>
-		<desc lang="vi">Chuông vàng 2025 Đặng Thị Thùy Dương - Cú lội ngươc dòng ngoạn mục</desc>
+	<programme start="20251011103000 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Di sản âm nhạc thế giới</title>
 	</programme>
-	<programme start="20251010023000 +0700" stop="20251010033000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Cải lương một thời vang bóng</title>
-	</programme>
-	<programme start="20251010033000 +0700" stop="20251010043000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Những lá thư xanh</title>
-		<desc lang="vi">Mẹ là nơi con quay về</desc>
-	</programme>
-	<programme start="20251010043000 +0700" stop="20251010050000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Nông thôn ngày mới</title>
-		<desc lang="vi">Nông thôn mới ngày 10/10/2025</desc>
-	</programme>
-	<programme start="20251010050000 +0700" stop="20251010053000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Ca khúc Việt Nam 30p</title>
-		<desc lang="vi">Ca khúc Việt Nam - 01-09-2025 - Viết tiếp câu chuyện hoà bình</desc>
-	</programme>
-	<programme start="20251010053000 +0700" stop="20251010060000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011110000 +0700" stop="20251011113000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
 		<title lang="vi">Thời sự</title>
 	</programme>
-	<programme start="20251010060000 +0700" stop="20251010070000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011113000 +0700" stop="20251011130000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Hà Nội – Cao điểm trưa.</title>
+	</programme>
+	<programme start="20251011130000 +0700" stop="20251011133000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Giai điệu tâm tình.</title>
+	</programme>
+	<programme start="20251011133000 +0700" stop="20251011140000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Nhạc không lời Việt Nam.</title>
+		<desc lang="vi">Nhạc thính phòng – Giao hưởng Việt Nam</desc>
+	</programme>
+	<programme start="20251011140000 +0700" stop="20251011143000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Âm nhạc dành cho bạn trẻ</title>
+		<desc lang="vi">A song for you</desc>
+	</programme>
+	<programme start="20251011143000 +0700" stop="20251011150000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Tạp chí văn học nghệ thuật Thủ đô</title>
+	</programme>
+	<programme start="20251011150000 +0700" stop="20251011153000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Di sản âm nhạc thế giới</title>
+	</programme>
+	<programme start="20251011153000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Hà Nội - Cao điểm chiều</title>
+	</programme>
+	<programme start="20251011190000 +0700" stop="20251011193000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Thời sự</title>
+	</programme>
+	<programme start="20251011193000 +0700" stop="20251011194500 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Bản tin nhà đất và đầu tư</title>
+	</programme>
+	<programme start="20251011194500 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Bản tin kinh tế tài chính</title>
+	</programme>
+	<programme start="20251011200000 +0700" stop="20251011203000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Âm nhạc dành cho bạn trẻ.</title>
+		<desc lang="vi">A song for you</desc>
+	</programme>
+	<programme start="20251011203000 +0700" stop="20251011210000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Khúc hát quê hương</title>
+	</programme>
+	<programme start="20251011210000 +0700" stop="20251011213000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Ca khúc chủ đề</title>
+	</programme>
+	<programme start="20251011213000 +0700" stop="20251011220000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Con đường nghệ thuật</title>
+	</programme>
+	<programme start="20251011220000 +0700" stop="20251011223000 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Giai điệu tâm tình.</title>
+		<desc lang="vi"> </desc>
+	</programme>
+	<programme start="20251011223000 +0700" stop="20251011235959 +0700" channel="dai-phat-thanh-Ha-Noi-90MHz">
+		<title lang="vi">Đọc truyện đêm khuya</title>
+		<desc lang="vi">Tiểu thuyết "Linh điểu" (Phần 1) - Nhà văn Nguyễn Văn Học</desc>
+	</programme>
+	<programme start="20251011050500 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Giai điệu ngày mới </title>
+		<desc lang="vi">Chất liệu âm nhạc đặc trưng của vùng cao</desc>
+	</programme>
+	<programme start="20251011053000 +0700" stop="20251011060000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Ca khúc Việt Nam </title>
+		<desc lang="vi">Chùm ca khúc trích trong cuộc thi Tiếng hát Hà Nội năm 2024</desc>
+	</programme>
+	<programme start="20251011060000 +0700" stop="20251011063000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Tiếp sóng Đài Tiếng nói Việt Nam</title>
+	</programme>
+	<programme start="20251011063000 +0700" stop="20251011073000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Chào ngày mới</title>
+	</programme>
+	<programme start="20251011073000 +0700" stop="20251011080500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Tọa đàm</title>
+		<desc lang="vi">Quản lý thuế từ bán hàng live stream</desc>
+	</programme>
+	<programme start="20251011080500 +0700" stop="20251011083000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Âm sắc Việt Nam</title>
+		<desc lang="vi">Làn điệu dân ca Nghệ Tĩnh</desc>
+	</programme>
+	<programme start="20251011083000 +0700" stop="20251011090000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Thanh âm Hà Nội</title>
+		<desc lang="vi">Hà Nội trong âm nhạc của Nguyễn Vĩnh Tiến</desc>
+	</programme>
+	<programme start="20251011090000 +0700" stop="20251011091500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Bản tin tổng hợp</title>
+	</programme>
+	<programme start="20251011091500 +0700" stop="20251011094500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Sóng nhạc thế giới</title>
+		<desc lang="vi">Phong cách Jazz Cuba</desc>
+	</programme>
+	<programme start="20251011094500 +0700" stop="20251011100000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Tiếng nói Thủ đô ta</title>
+		<desc lang="vi">Người dân hài lòng với 25 dịch vụ công không giấy tờ</desc>
+	</programme>
+	<programme start="20251011100000 +0700" stop="20251011102500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Nhạc không lời Việt Nam</title>
+		<desc lang="vi">Giao hưởng “Hào khí Thăng Long” của nhạc sĩ Trần Mạnh Hùng</desc>
+	</programme>
+	<programme start="20251011102500 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Du lịch cùng âm nhạc</title>
+		<desc lang="vi">Hành trình trở về thời Hoa niên</desc>
+	</programme>
+	<programme start="20251011110000 +0700" stop="20251011110500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Bản tin </title>
+	</programme>
+	<programme start="20251011110500 +0700" stop="20251011113000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Âm sắc Việt Nam</title>
+		<desc lang="vi">Làn điệu dân ca Nghệ Tĩnh</desc>
+	</programme>
+	<programme start="20251011113000 +0700" stop="20251011123000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Thời sự</title>
+	</programme>
+	<programme start="20251011123000 +0700" stop="20251011133000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Hanoi Radio Concert</title>
+		<desc lang="vi">Giới thiệu nghệ sĩ Joshua Bell - một trong những nghệ sĩ violon xuất sắc nhất thời đại</desc>
+	</programme>
+	<programme start="20251011133000 +0700" stop="20251011134500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Nhìn ra thế giới</title>
+	</programme>
+	<programme start="20251011134500 +0700" stop="20251011141000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Nhạc không lời Việt Nam</title>
+		<desc lang="vi">Giao hưởng “Hào khí Thăng Long” của nhạc sĩ Trần Mạnh Hùng</desc>
+	</programme>
+	<programme start="20251011141000 +0700" stop="20251011142500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Cải cách hành chính</title>
+	</programme>
+	<programme start="20251011142500 +0700" stop="20251011150000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Thanh âm Hà Nội</title>
+		<desc lang="vi">Hà Nội trong âm nhạc của Nguyễn Vĩnh Tiến</desc>
+	</programme>
+	<programme start="20251011150000 +0700" stop="20251011151500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Bản tin tổng hợp</title>
+	</programme>
+	<programme start="20251011151500 +0700" stop="20251011154500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Ca khúc Việt Nam </title>
+		<desc lang="vi">Chùm ca khúc trích trong cuộc thi Tiếng hát Hà Nội năm 2024</desc>
+	</programme>
+	<programme start="20251011154500 +0700" stop="20251011160000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Nhìn ra thế giới</title>
+	</programme>
+	<programme start="20251011160000 +0700" stop="20251011160500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Bản tin </title>
+	</programme>
+	<programme start="20251011160500 +0700" stop="20251011163000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Âm sắc Việt Nam</title>
+		<desc lang="vi">Làn điệu dân ca Nghệ Tĩnh</desc>
+	</programme>
+	<programme start="20251011163000 +0700" stop="20251011170000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Tọa đàm</title>
+		<desc lang="vi">Quản lý thuế từ bán hàng live stream</desc>
+	</programme>
+	<programme start="20251011170000 +0700" stop="20251011173000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Ca khúc Việt Nam </title>
+		<desc lang="vi">Chùm ca khúc trích trong cuộc thi Tiếng hát Hà Nội năm 2024</desc>
+	</programme>
+	<programme start="20251011173000 +0700" stop="20251011180000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Thanh âm Hà Nội</title>
+		<desc lang="vi">Hà Nội trong âm nhạc của Nguyễn Vĩnh Tiến</desc>
+	</programme>
+	<programme start="20251011180000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Thời sự</title>
+	</programme>
+	<programme start="20251011190000 +0700" stop="20251011193000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Du lịch cùng âm nhạc</title>
+		<desc lang="vi">Hành trình trở về thời Hoa niên</desc>
+	</programme>
+	<programme start="20251011193000 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Sóng nhạc thế giới</title>
+		<desc lang="vi">Phong cách Jazz Cuba</desc>
+	</programme>
+	<programme start="20251011200000 +0700" stop="20251011200500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Bản tin </title>
+	</programme>
+	<programme start="20251011200500 +0700" stop="20251011202000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Tiếng nói Thủ đô ta</title>
+		<desc lang="vi">Hà Nội với mô hình đô thị 15 phút – Cơ hội và thách thức</desc>
+	</programme>
+	<programme start="20251011202000 +0700" stop="20251011204500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Nhạc không lời Việt Nam</title>
+		<desc lang="vi">Giao hưởng “Hào khí Thăng Long” của nhạc sĩ Trần Mạnh Hùng</desc>
+	</programme>
+	<programme start="20251011204500 +0700" stop="20251011210000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Chuyện Hà Nội</title>
+		<desc lang="vi">“Cung văn đại thụ” trong làng chầu văn Hà Nội</desc>
+	</programme>
+	<programme start="20251011210000 +0700" stop="20251011211500 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Bản tin tổng hợp</title>
+	</programme>
+	<programme start="20251011211500 +0700" stop="20251011213000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Nhìn ra thế giới</title>
+	</programme>
+	<programme start="20251011213000 +0700" stop="20251011223000 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Hà Nội Radio Concert</title>
+		<desc lang="vi">Giới thiệu nghệ sĩ Joshua Bell - một trong những nghệ sĩ violon xuất sắc nhất thời đại</desc>
+	</programme>
+	<programme start="20251011223000 +0700" stop="20251011235959 +0700" channel="dai-phat-thanh-Ha-Noi-96MHz">
+		<title lang="vi">Đọc truyện đêm khuya</title>
+		<desc lang="vi">Tiểu thuyết "Linh điểu" (Phần 1) - Nhà văn Nguyễn Văn Học</desc>
+	</programme>
+	<programme start="20251011000000 +0700" stop="20251011004500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thành phố lên đèn</title>
+		<desc lang="vi">Nâng hạng thị trường chứng khoán</desc>
+	</programme>
+	<programme start="20251011004500 +0700" stop="20251011010000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thông tin và quảng cáo</title>
+		<desc lang="vi">Một mẹo đơn giản để ngủ ngon hơn</desc>
+	</programme>
+	<programme start="20251011010000 +0700" stop="20251011013000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Chạm đa chiều</title>
+		<desc lang="vi">Chung tay hỗ trợ đồng bào vùng lũ qua nền tảng VNeID</desc>
+	</programme>
+	<programme start="20251011013000 +0700" stop="20251011020000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thi ca điểm hẹn</title>
+		<desc lang="vi">Dòng chảy tâm ngôn của Lê Thuận Nghĩa và Ngô Thanh Vân</desc>
+	</programme>
+	<programme start="20251011020000 +0700" stop="20251011023000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Ca khúc Việt Nam 30p</title>
+		<desc lang="vi">Ca khúc Việt Nam - 01-09-2025 - Viết tiếp câu chuyện hoà bình</desc>
+	</programme>
+	<programme start="20251011023000 +0700" stop="20251011033000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Sắc màu sân khấu</title>
+		<desc lang="vi">Tác giả  Kiều Thanh Loan và các sáng tác mới </desc>
+	</programme>
+	<programme start="20251011033000 +0700" stop="20251011043000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Làn sóng xanh</title>
+		<desc lang="vi">BXH tuần 2 tháng 10</desc>
+	</programme>
+	<programme start="20251011043000 +0700" stop="20251011050000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Nông thôn ngày mới</title>
+		<desc lang="vi">Nông thôn mới 10-10-2025</desc>
+	</programme>
+	<programme start="20251011050000 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Ca khúc Việt Nam 30p</title>
+		<desc lang="vi">Ca khúc Việt Nam - 01-09-2025 - Viết tiếp câu chuyện hoà bình</desc>
+	</programme>
+	<programme start="20251011053000 +0700" stop="20251011060000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thời sự</title>
+	</programme>
+	<programme start="20251011060000 +0700" stop="20251011064500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Sài Gòn buổi sáng</title>
 	</programme>
-	<programme start="20251010070000 +0700" stop="20251010073000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Tạp chí Hương Sen</title>
-		<desc lang="vi">Làm theo di chúc thiêng liêng</desc>
+	<programme start="20251011064500 +0700" stop="20251011070000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thông tin và quảng cáo</title>
+		<desc lang="vi">Cách giảm cân sau sinh</desc>
 	</programme>
-	<programme start="20251010073000 +0700" stop="20251010080000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Quà tặng âm nhạc</title>
-		<desc lang="vi">Quà tặng âm nhạc - 05-10-2025 - Trung thu yêu thương</desc>
+	<programme start="20251011070000 +0700" stop="20251011073000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">50 năm bài ca thống nhất</title>
+		<desc lang="vi">Nhạc sĩ Nguyễn Văn Hiên chào Thành phố 50 mùa hoa!</desc>
 	</programme>
-	<programme start="20251010080000 +0700" stop="20251010083000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Giải thưởng Thành tựu y khoa Việt Nam</title>
-		<desc lang="vi">Giai điệu Blouse trắng – thanh âm chữa lành vang lên nơi bệnh viện</desc>
+	<programme start="20251011073000 +0700" stop="20251011083000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Hòa sóng cùng VOH</title>
+		<desc lang="vi">Những câu chuyện tháng 10 cùng Nghệ An &amp; Đồng Nai </desc>
 	</programme>
-	<programme start="20251010083000 +0700" stop="20251010090000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Thanh niên 4.0</title>
-		<desc lang="vi">Phát huy sức trẻ Gen Z trong công tác hỗ trợ, khắc phục hậu quả sau bão lũ</desc>
-	</programme>
-	<programme start="20251010090000 +0700" stop="20251010093000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Kinh doanh &amp; pháp luật</title>
-		<desc lang="vi">Tạo điều kiện cho đội ngũ doanh nhân phát triển</desc>
-	</programme>
-	<programme start="20251010093000 +0700" stop="20251010103000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Asia song</title>
-		<desc lang="vi">Về nhạc phim của Trường Nguyệt Tẫn Minh </desc>
-	</programme>
-	<programme start="20251010103000 +0700" stop="20251010110000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011083000 +0700" stop="20251011090000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Cư dân mạng hôm nay</title>
 		<desc lang="vi">Chơi hụi “online”: họa chồng thêm họa !</desc>
 	</programme>
-	<programme start="20251010110000 +0700" stop="20251010114500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011090000 +0700" stop="20251011093000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thị trường &amp; doanh nghiệp</title>
+		<desc lang="vi">Quy định mới về mua bán vàng từ ngày 10-10</desc>
+	</programme>
+	<programme start="20251011093000 +0700" stop="20251011103000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Những lá thư xanh</title>
+		<desc lang="vi">Cho nhau lối đi riêng...</desc>
+	</programme>
+	<programme start="20251011103000 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Top trending</title>
+		<desc lang="vi">Hai bạn trẻ làm trang web cứu hộ khẩn cấp</desc>
+	</programme>
+	<programme start="20251011110000 +0700" stop="20251011114500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Online 360</title>
 	</programme>
-	<programme start="20251010114500 +0700" stop="20251010120000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011114500 +0700" stop="20251011120000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Thông tin và quảng cáo</title>
-		<desc lang="vi">làng biển Cung Hầu - Mỹ Long</desc>
+		<desc lang="vi">Khử mùi hôi tủ lạnh bằng bã cà phê hoặc vỏ cam</desc>
 	</programme>
-	<programme start="20251010120000 +0700" stop="20251010130000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Làn sóng xanh</title>
+	<programme start="20251011120000 +0700" stop="20251011130000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thực đơn âm nhạc</title>
 	</programme>
-	<programme start="20251010130000 +0700" stop="20251010133000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Thanh âm dân tộc</title>
-		<desc lang="vi">Lời bài ca mới : Niềm vui sum hợp</desc>
+	<programme start="20251011130000 +0700" stop="20251011133000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Chân dung nghệ sĩ</title>
+		<desc lang="vi">Ca sĩ Minh Sang cổ vũ tinh thần tuổi trẻ bằng âm nhạc</desc>
 	</programme>
-	<programme start="20251010133000 +0700" stop="20251010140000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011133000 +0700" stop="20251011140000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Thông tin quảng cáo</title>
-		<desc lang="vi">Những điều cha mẹ nên làm để nuôi dạy con; rau, quả nên ăn để tránh kiệt sức</desc>
+		<desc lang="vi">Những hiểu lầm thường gặp khi bổ sung vitamin</desc>
 	</programme>
-	<programme start="20251010140000 +0700" stop="20251010150000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Hòa sóng cùng VOH</title>
+	<programme start="20251011140000 +0700" stop="20251011150000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Phiên chợ Startup</title>
 	</programme>
-	<programme start="20251010150000 +0700" stop="20251010150500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011150000 +0700" stop="20251011150500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Bản tin</title>
 	</programme>
-	<programme start="20251010150500 +0700" stop="20251010160000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Sân khấu truyền thanh</title>
-		<desc lang="vi">Tình Vỡ, tác giả Lý Bông Dừa - kỳ 1 - 55 phút</desc>
+	<programme start="20251011150500 +0700" stop="20251011160000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Sắc màu sân khấu</title>
+		<desc lang="vi">Tác giả  Kiều Thanh Loan và các sáng tác mới - 55 PHÚT</desc>
 	</programme>
-	<programme start="20251010160000 +0700" stop="20251010164500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011160000 +0700" stop="20251011164500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Xskt</title>
 	</programme>
-	<programme start="20251010164500 +0700" stop="20251010170000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011164500 +0700" stop="20251011170000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Thông tin và quảng cáo</title>
-		<desc lang="vi">Nghệ thuật nói chuyện trong cuộc sống của người xưa</desc>
+		<desc lang="vi">Những nguyên tắc quan trọng khi cho bé ăn dặm</desc>
 	</programme>
-	<programme start="20251010170000 +0700" stop="20251010173000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Muôn mặt kết nối</title>
+	<programme start="20251011170000 +0700" stop="20251011173000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">VOH kết nối</title>
+		<desc lang="vi">Phụ nữ độc thân thực hiện sinh con bằng IVF nếu có nguyện vọng</desc>
 	</programme>
-	<programme start="20251010173000 +0700" stop="20251010180000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Nhịp đập kinh tế</title>
+	<programme start="20251011173000 +0700" stop="20251011180000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">TPHCM du ký</title>
+		<desc lang="vi">Ẩm thực gia truyền và quán xưa </desc>
 	</programme>
-	<programme start="20251010180000 +0700" stop="20251010184500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Thành phố lên đèn</title>
+	<programme start="20251011180000 +0700" stop="20251011183000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Bàn tròn thời sự</title>
+		<desc lang="vi">TP.HCM sẽ áp dụng lao động công ích với người vi phạm giao thông</desc>
 	</programme>
-	<programme start="20251010184500 +0700" stop="20251010190000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011183000 +0700" stop="20251011184500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Kể chuyện vụ án</title>
+		<desc lang="vi">Cảnh giác với tội phạm cướp giật tại tiệm vàng</desc>
+	</programme>
+	<programme start="20251011184500 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Thông tin và quảng cáo</title>
-		<desc lang="vi">Loại rau, quả nên ăn để tránh kiệt sức trong mùa hè</desc>
+		<desc lang="vi">Thư viện Con người – The Human Library</desc>
 	</programme>
-	<programme start="20251010190000 +0700" stop="20251010193000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Chuyện của phố</title>
+	<programme start="20251011190000 +0700" stop="20251011193000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Tạp chí kiến trúc</title>
+		<desc lang="vi">Ấn Tượng Chuyển Đổi Xanh, Số Hoá Tại Triển Lãm Nội Thất Xây Dựng Việt Nam VIBE 2025</desc>
 	</programme>
-	<programme start="20251010193000 +0700" stop="20251010200000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Một thời hào hùng lãng mạn</title>
-		<desc lang="vi">“Thế Hiển hát về người lính &amp; Những bản Tâm ca”  </desc>
+	<programme start="20251011193000 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Nhịp sống TPHCM</title>
+		<desc lang="vi">Camera AI, cuộc chiến thuốc lá và bí quyết trường thọ</desc>
 	</programme>
-	<programme start="20251010200000 +0700" stop="20251010203000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Trao gửi niềm tin</title>
-		<desc lang="vi"> Phỏng vấn TS. Mai Thị Thủy, Trường Đại học Luật TP.HCM</desc>
+	<programme start="20251011200000 +0700" stop="20251011203000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Xin chào tuổi thơ</title>
+		<desc lang="vi">NS Hoàng Luân và âm nhạc thiếu nhi</desc>
 	</programme>
-	<programme start="20251010203000 +0700" stop="20251010210000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011203000 +0700" stop="20251011210000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Không giới hạn</title>
 		<desc lang="vi">GIỮ LẠI NỤ CƯỜI</desc>
 	</programme>
-	<programme start="20251010210000 +0700" stop="20251010213000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011210000 +0700" stop="20251011213000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Chạm đa chiều</title>
+		<desc lang="vi">Chung tay hỗ trợ đồng bào vùng lũ qua nền tảng VNeID</desc>
 	</programme>
-	<programme start="20251010213000 +0700" stop="20251010223000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Trò chuyện đêm khuya</title>
+	<programme start="20251011213000 +0700" stop="20251011220000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Ca khúc Việt Nam 30p</title>
+		<desc lang="vi">Ca khúc Việt Nam - 01-09-2025 - Viết tiếp câu chuyện hoà bình</desc>
 	</programme>
-	<programme start="20251010223000 +0700" stop="20251010223500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011220000 +0700" stop="20251011223000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">50 năm bài ca thống nhất</title>
+		<desc lang="vi">Nhạc sĩ Nguyễn Văn Hiên chào Thành phố 50 mùa hoa!</desc>
+	</programme>
+	<programme start="20251011223000 +0700" stop="20251011223500 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Bản tin</title>
 	</programme>
-	<programme start="20251010223500 +0700" stop="20251010230000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
-		<title lang="vi">Kinh doanh và pháp luật</title>
-		<desc lang="vi">Tạo điều kiện cho đội ngũ doanh nhân phát triển</desc>
+	<programme start="20251011223500 +0700" stop="20251011230000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+		<title lang="vi">Thị trường và doanh nghiệp</title>
+		<desc lang="vi">Doanh nhân Thái Bình không chỉ giỏi kinh doanh mà còn giàu lòng nhân ái</desc>
 	</programme>
-	<programme start="20251010230000 +0700" stop="20251011000000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
+	<programme start="20251011230000 +0700" stop="20251012000000 +0700" channel="dai-phat-thanh-VOH-99.9Mhz">
 		<title lang="vi">Lên lịch đi nào</title>
-		<desc lang="vi">Chính sách visa-Chìa khóa vàng thu hút du khách</desc>
+		<desc lang="vi">Tháp Tam Thắng - điểm check in mới toanh của giới trẻ ở Vũng Tàu</desc>
 	</programme>
-	<programme start="20251010050000 +0700" stop="20251010053000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011050000 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Giao thông và âm nhạc 30p</title>
-		<desc lang="vi">GTAN 5h 10-10</desc>
+		<desc lang="vi">Những giai điệu quê hương</desc>
 	</programme>
-	<programme start="20251010053100 +0700" stop="20251010060000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011053100 +0700" stop="20251011060000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Thời sự</title>
 	</programme>
-	<programme start="20251010060000 +0700" stop="20251010080000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011060000 +0700" stop="20251011080000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Tâm Điểm 247</title>
 	</programme>
-	<programme start="20251010080000 +0700" stop="20251010100000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011080000 +0700" stop="20251011100000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Nhịp sống Sài Gòn sáng</title>
 	</programme>
-	<programme start="20251010100000 +0700" stop="20251010110000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011100000 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Giao thông và âm nhạc 60p</title>
 	</programme>
-	<programme start="20251010110000 +0700" stop="20251010130000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011110000 +0700" stop="20251011130000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Nhịp sống Sài Gòn trưa</title>
 	</programme>
-	<programme start="20251010130000 +0700" stop="20251010140000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011130000 +0700" stop="20251011140000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Quà tặng âm nhạc</title>
 	</programme>
-	<programme start="20251010140000 +0700" stop="20251010143000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011140000 +0700" stop="20251011143000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Đào tạo từ xa</title>
-		<desc lang="vi">Đào tạo từ xa 14h00 ngày 101025</desc>
+		<desc lang="vi">Đào tạo từ xa 14h00 ngày 111025</desc>
 	</programme>
-	<programme start="20251010143000 +0700" stop="20251010160000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011143000 +0700" stop="20251011160000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Hành trình cảm xúc</title>
 	</programme>
-	<programme start="20251010160000 +0700" stop="20251010170000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011160000 +0700" stop="20251011170000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Nhịp sống Sài Gòn chiều</title>
 	</programme>
-	<programme start="20251010170000 +0700" stop="20251010173000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011170000 +0700" stop="20251011173000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Giao thông và âm nhạc 30p</title>
 	</programme>
-	<programme start="20251010173000 +0700" stop="20251010190000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011173000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Nhịp sống Sài Gòn chiều</title>
 	</programme>
-	<programme start="20251010190000 +0700" stop="20251010210000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011190000 +0700" stop="20251011210000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Đêm thành phố</title>
 	</programme>
-	<programme start="20251010210000 +0700" stop="20251010230000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
+	<programme start="20251011210000 +0700" stop="20251011230000 +0700" channel="dai-phat-thanh-VOH-95.6Mhz">
 		<title lang="vi">Trạm Radio</title>
 	</programme>
-	<programme start="20251010050000 +0700" stop="20251010053000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011050000 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Thanh âm ngày mới</title>
-		<desc lang="vi">Đi giữa trời rực rỡ </desc>
+		<desc lang="vi">Anh là ngoại lệ của em</desc>
 	</programme>
-	<programme start="20251010053000 +0700" stop="20251010060000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011053000 +0700" stop="20251011060000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Thời sự</title>
 	</programme>
-	<programme start="20251010060000 +0700" stop="20251010090000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011060000 +0700" stop="20251011090000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Sáng mỹ miều - Chiều mỹ mãn</title>
-		<desc lang="vi">Tập 481: Phạm Hồng Phước x Kiều Ngân</desc>
+		<desc lang="vi">Tập 483: Đỗ Nhật Hà x Phạm Hồng Phước</desc>
 	</programme>
-	<programme start="20251010090000 +0700" stop="20251010100000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011090000 +0700" stop="20251011100000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Lên lịch đi nào</title>
-		<desc lang="vi">Định hình tương lai ngành du lịch: Hướng tới chuyển đổi số và chuyển đổi xanh”</desc>
+		<desc lang="vi">Hát xẩm là một loại hình nghệ thuật dân gian </desc>
 	</programme>
-	<programme start="20251010100000 +0700" stop="20251010103000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011100000 +0700" stop="20251011103000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Giai điệu tôi yêu</title>
-		<desc lang="vi">Mưa trong nỗi nhớ miên man về những cuộc tình đã đi qua</desc>
+		<desc lang="vi">Các ca khúc tự hào dân tộc </desc>
 	</programme>
-	<programme start="20251010103000 +0700" stop="20251010110000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Doanh nghiệp và thương hiệu Việt</title>
-		<desc lang="vi">Vinamilk dẫn đầu Top 25 thương hiệu sản xuất, dịch vụ 2025</desc>
+	<programme start="20251011103000 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Thị trường và doanh nghiệp</title>
+		<desc lang="vi">Trái bưởi của Việt Nam chính thức có "visa" vào Úc</desc>
 	</programme>
-	<programme start="20251010110000 +0700" stop="20251010120000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011110000 +0700" stop="20251011120000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Tuyệt chiêu sống khỏe</title>
-		<desc lang="vi">Đột quỵ đang ngày càng trẻ hóa và không còn là căn bệnh của riêng người cao tuổi.</desc>
+		<desc lang="vi">Tín hiệu cảnh báo sớm đột quỵ, cần lưu ý</desc>
 	</programme>
-	<programme start="20251010120000 +0700" stop="20251010130000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011120000 +0700" stop="20251011130000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Nhịp sống 7/7</title>
-		<desc lang="vi">Doanh nghiệp yêu thích 2025-Thúc đẩy phát triển bền vững và lan tỏa sự khác biệt. </desc>
 	</programme>
-	<programme start="20251010130000 +0700" stop="20251010140000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Sàn diễn đời và nghề</title>
-		<desc lang="vi">Giao lưu cùng nghệ sĩ trẻ Biện Thuy</desc>
+	<programme start="20251011130000 +0700" stop="20251011133000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Diễn đàn doanh nghiệp</title>
+		<desc lang="vi">Công bố kế hoạch đào tạo 10.000 CEO</desc>
 	</programme>
-	<programme start="20251010140000 +0700" stop="20251010143000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Cuộc sống số</title>
-		<desc lang="vi">Phát động Cuộc thi sáng kiến xây dựng thành phố thông minh - Smart City 2025</desc>
+	<programme start="20251011133000 +0700" stop="20251011140000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Vì cuộc sống xanh</title>
+		<desc lang="vi">Nữ doanh nhân tâm huyết “chuyển hóa” các vườn sầu riêng chưa đạt chuẩn</desc>
 	</programme>
-	<programme start="20251010143000 +0700" stop="20251010150000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Doanh nghiệp và hội nhập</title>
-		<desc lang="vi">OPL Logistics được vinh danh tại Giải thưởng Doanh nghiệp Châu Á -APEA  2025</desc>
+	<programme start="20251011140000 +0700" stop="20251011141500 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Ca khúc Việt Nam 15p</title>
+		<desc lang="vi">ca khúc vn 12-08-23</desc>
 	</programme>
-	<programme start="20251010150000 +0700" stop="20251010160000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011141500 +0700" stop="20251011150000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Sát cánh cùng gia đình Việt</title>
+		<desc lang="vi">SỐNG LÀ CHO ĐI</desc>
+	</programme>
+	<programme start="20251011150000 +0700" stop="20251011160000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Tuyệt chiêu sống khỏe</title>
-		<desc lang="vi">Đột quỵ đang ngày càng trẻ hóa và không còn là căn bệnh của riêng người cao tuổi.</desc>
+		<desc lang="vi">Tín hiệu cảnh báo sớm đột quỵ, cần lưu ý</desc>
 	</programme>
-	<programme start="20251010160000 +0700" stop="20251010170000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011160000 +0700" stop="20251011170000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Thị trường trong ngày</title>
-		<desc lang="vi">Kết nối nguồn nhân lực với nhà tuyển dụng”-Job Link 2025, gần 5000 đầu việc chờ người lao động</desc>
+		<desc lang="vi">Stavian Recycling ký kết biên bản ghi nhớ hợp tác với Công ty TNHH Starlinger và Công ty CP AMUT </desc>
 	</programme>
-	<programme start="20251010170000 +0700" stop="20251010190000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011170000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Sáng mỹ miều - Chiều mỹ mãn</title>
-		<desc lang="vi">Tập 482: Phạm Hồng Phước x Kiều Ngân</desc>
+		<desc lang="vi">Tập 484: Đỗ Nhật Hà x Phạm Hồng Phước</desc>
 	</programme>
-	<programme start="20251010190000 +0700" stop="20251010193000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Doanh nghiệp và thương hiệu Việt</title>
-		<desc lang="vi">Vinh danh Top 100 doanh nghiệp được yêu thích 2025</desc>
+	<programme start="20251011190000 +0700" stop="20251011193000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Giai điệu tôi yêu</title>
+		<desc lang="vi">Các ca khúc tự hào dân tộc </desc>
 	</programme>
-	<programme start="20251010193000 +0700" stop="20251010200000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Kinh doanh pháp luật</title>
-		<desc lang="vi">Tạo điều kiện cho đội ngũ doanh nhân phát triển</desc>
+	<programme start="20251011193000 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Diễn đàn doanh nghiệp</title>
+		<desc lang="vi">Công bố kế hoạch đào tạo 10.000 CEO</desc>
 	</programme>
-	<programme start="20251010200000 +0700" stop="20251010210000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011200000 +0700" stop="20251011210000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Nhịp sống 7/7</title>
+		<desc lang="vi">Truyền 20 đơn vị máu và chế phẩm cứu cô gái 21 tuổi bị tai nạn giao thông đa chấn thương</desc>
 	</programme>
-	<programme start="20251010210000 +0700" stop="20251010220000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+	<programme start="20251011210000 +0700" stop="20251011220000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
 		<title lang="vi">Lên lịch đi nào</title>
-		<desc lang="vi">Định hình tương lai ngành du lịch: Hướng tới chuyển đổi số và chuyển đổi xanh”</desc>
+		<desc lang="vi">Hát xẩm là một loại hình nghệ thuật dân gian </desc>
 	</programme>
-	<programme start="20251010220000 +0700" stop="20251010230000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
-		<title lang="vi">Sàn diễn đời và nghề</title>
-		<desc lang="vi">Nghệ sĩ trẻ Biện Thuy giao lưu cùng chương trình </desc>
+	<programme start="20251011220000 +0700" stop="20251011223000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Thị trường và doanh nghiệp</title>
+		<desc lang="vi">Trái bưởi của Việt Nam chính thức có "visa" vào Úc</desc>
 	</programme>
-	<programme start="20251010040000 +0700" stop="20251010043000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011223000 +0700" stop="20251011230000 +0700" channel="dai-phat-thanh-VOH-87.7Mhz">
+		<title lang="vi">Giai điệu tôi yêu</title>
+		<desc lang="vi">Các ca khúc tự hào dân tộc </desc>
+	</programme>
+	<programme start="20251011040000 +0700" stop="20251011043000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Khmer</title>
 		<desc lang="vi">កម្មវិធីផ្សាយជាភាសាខ្មែរ - 10/10/2025</desc>
 	</programme>
-	<programme start="20251010043000 +0700" stop="20251010053000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011043000 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Nông thôn</title>
-		<desc lang="vi">Trồng 40.000 cây nhàu, tỷ phú nông dân thu nhập hơn 100 triệu đồng/tháng.</desc>
+		<desc lang="vi">Hợp tác xã ở Cà Mau trồng mướp hương, thơm khắp đồng, ra nhiều trái</desc>
 	</programme>
-	<programme start="20251010053000 +0700" stop="20251010060000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011053000 +0700" stop="20251011060000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Thời sự 30p</title>
-		<desc lang="vi">Thời sự 5h30 ngày 10/10/2025 </desc>
+		<desc lang="vi">Thời sự 5h30, ngày 11/10/2025: Nhiều hoạt động của Tổng Bí thư tại Triều Tiên</desc>
 	</programme>
-	<programme start="20251010060000 +0700" stop="20251010063000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Hướng đến một nền hành chính hiệu quả</title>
-		<desc lang="vi">Cần thêm cơ chế đặc thù từ Nghị quyết 98 để TP.HCM tăng tốc mạnh mẽ</desc>
+	<programme start="20251011060000 +0700" stop="20251011063000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Nhân lực và phát triển</title>
+		<desc lang="vi">METALEX Vietnam 2025: Cầu nối chiến lược, hỗ trợ DN hội nhập sâu vào chuỗi cung ứng toàn cầu</desc>
 	</programme>
-	<programme start="20251010063000 +0700" stop="20251010064500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011063000 +0700" stop="20251011064500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Thông tin &amp; quảng cáo 15p</title>
-		<desc lang="vi">6 điều cha mẹ nên làm để nuôi dạy con trẻ</desc>
+		<desc lang="vi">Indonesia – quốc gia vạn đảo</desc>
 	</programme>
-	<programme start="20251010064500 +0700" stop="20251010070000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011064500 +0700" stop="20251011070000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Những tấm gương học tập Bác</title>
-		<desc lang="vi">Chàng trai người Tày học Bác khởi nghiệp thành công</desc>
+		<desc lang="vi">Huyện Chợ Gạo tổng kết 10 năm thực hiện Chỉ thị số 05-CT/TW</desc>
 	</programme>
-	<programme start="20251010070000 +0700" stop="20251010073000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Diễn đàn doanh nghiệp</title>
-		<desc lang="vi">Chinh phục Cá mập: Top 10 sách hay do doanh nhân Việt viết năm 2025 </desc>
+	<programme start="20251011070000 +0700" stop="20251011073000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Đầu tư và phát triển</title>
+		<desc lang="vi">TPHCM giữ vững lợi thế trong thu hút đầu tư</desc>
 	</programme>
-	<programme start="20251010073000 +0700" stop="20251010080000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011073000 +0700" stop="20251011080000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Thời sự 30p</title>
-		<desc lang="vi">Thời sự 7h30 ngày 10/10/2025 </desc>
+		<desc lang="vi">Thời sự 7h30, ngày 11/10/2025: Nhiều hoạt động của Tổng Bí thư tại Triều Tiên</desc>
 	</programme>
-	<programme start="20251010080000 +0700" stop="20251010083000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011080000 +0700" stop="20251011083000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Câu chuyện đầu tư và kinh doanh</title>
-		<desc lang="vi">Tăng cường kết nối với doanh nghiệp CuBa</desc>
+		<desc lang="vi">Trọng tài thương mại – hình thức giải quyết tranh chấp được ưa chuộng trong bối cảnh mới</desc>
 	</programme>
-	<programme start="20251010083000 +0700" stop="20251010090000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011083000 +0700" stop="20251011090000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Đào tạo từ xa</title>
-		<desc lang="vi">Đào tạo từ xa 08h30 ngày 101025</desc>
+		<desc lang="vi">Đào tạo từ xa 08h30 ngày 111025</desc>
 	</programme>
-	<programme start="20251010090000 +0700" stop="20251010090500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011090000 +0700" stop="20251011090500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Bản tin thời sự 5p</title>
-		<desc lang="vi">Bản tin 9h ngày 10/10/2025</desc>
+		<desc lang="vi">Bản tin 9h00, ngày 11/10/2025: Khai mạc HN Bộ trưởng về kết nối kinh tế Việt Nam - Singapore</desc>
 	</programme>
-	<programme start="20251010090500 +0700" stop="20251010091500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011090500 +0700" stop="20251011091500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Pháp</title>
 		<desc lang="vi">Banque mondiale : soutien renforcé au Vietnam pour les grands projets d’infrastructures</desc>
 	</programme>
-	<programme start="20251010091500 +0700" stop="20251010093000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011091500 +0700" stop="20251011093000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Anh</title>
+		<desc lang="vi">Year-end tourism booms with festivals and travel demand</desc>
 	</programme>
-	<programme start="20251010093000 +0700" stop="20251010100000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Doanh nghiệp hội nhập</title>
-		<desc lang="vi">“CHỦ TỊCH HỒ CHÍ MINH VỚI DOANH NGHIỆP, DOANH NHÂN – TỪ KÝ ỨC ĐẾN KHÁT VỌNG VƯƠN MÌNH KIẾN QUỐC"</desc>
+	<programme start="20251011093000 +0700" stop="20251011100000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Vì một cuộc sống xanh</title>
+		<desc lang="vi">Nữ doanh nhân tâm huyết “chuyển hóa” các vườn sầu riêng chưa đạt chuẩn</desc>
 	</programme>
-	<programme start="20251010100000 +0700" stop="20251010103000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Từ những điều bình dị</title>
-		<desc lang="vi">Học tập và làm theo Bác bằng hành động thiết thực, sáng tạo</desc>
+	<programme start="20251011100000 +0700" stop="20251011103000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Đi giữa thành phố nghĩa tình</title>
+		<desc lang="vi">GIEO YÊU THƯƠNG GIỮA PHỐ</desc>
 	</programme>
-	<programme start="20251010103000 +0700" stop="20251010110000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Hướng đến một nền hành chính hiệu quả</title>
-		<desc lang="vi">Cần thêm cơ chế đặc thù từ Nghị quyết 98 để TP.HCM tăng tốc mạnh mẽ</desc>
+	<programme start="20251011103000 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Giao lưu cuối tuần</title>
+		<desc lang="vi">Giao lưu cuối tuần  ngày 4/10/2025 </desc>
 	</programme>
-	<programme start="20251010110000 +0700" stop="20251010113000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011110000 +0700" stop="20251011113000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Thời sự 30p</title>
 	</programme>
-	<programme start="20251010113000 +0700" stop="20251010120000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Quốc phòng toàn dân</title>
-		<desc lang="vi">Nâng cao năng lực của đội ngũ Tiểu đoàn trưởng, Chính trị viên Tiểu đoàn</desc>
+	<programme start="20251011113000 +0700" stop="20251011120000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Câu lạc bộ tuổi trẻ</title>
 	</programme>
-	<programme start="20251010120000 +0700" stop="20251010124500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011120000 +0700" stop="20251011124500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Thông tin quảng cáo</title>
-		<desc lang="vi">Nghệ thuật nói chuyện trong cuộc sống của người xưa; Làng biển Mỹ Long</desc>
+		<desc lang="vi">Một số lưu ý khi ăn khoai lang</desc>
 	</programme>
-	<programme start="20251010124500 +0700" stop="20251010130000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011124500 +0700" stop="20251011130000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Những tấm gương học tập Bác</title>
-		<desc lang="vi">Hành trình 'tô màu ký ức' của chàng trai trẻ 9x</desc>
+		<desc lang="vi">Tổ Phụ nữ chăm lo đời sống người dân</desc>
 	</programme>
-	<programme start="20251010130000 +0700" stop="20251010130500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011130000 +0700" stop="20251011130500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Bản tin thời sự 5p</title>
 	</programme>
-	<programme start="20251010130500 +0700" stop="20251010140000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011130500 +0700" stop="20251011140000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Sắc màu sân khấu 55p</title>
 		<desc lang="vi">Tác giả  Kiều Thanh Loan và các sáng tác mới</desc>
 	</programme>
-	<programme start="20251010140000 +0700" stop="20251010143000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Pháp luật &amp; cuộc sống</title>
-		<desc lang="vi">Pháp luật và cuộc sống ngày 06/2/2025 </desc>
+	<programme start="20251011140000 +0700" stop="20251011160000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Bông lúa vàng 120</title>
+		<desc lang="vi">Bông Lúa Vàng - Tỏa sáng tài năng cải lương - Vòng Trổ Đòng - Tập 2</desc>
 	</programme>
-	<programme start="20251010143000 +0700" stop="20251010150000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Góc nhỏ gia đình</title>
-		<desc lang="vi">Phụ nữ Phú Thọ: Gắn kết yêu thương, vững bước vượt khó</desc>
-	</programme>
-	<programme start="20251010150000 +0700" stop="20251010150500 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Bản tin thời sự 5p</title>
-	</programme>
-	<programme start="20251010150500 +0700" stop="20251010153000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Diễn đàn doanh nghiệp</title>
-		<desc lang="vi">Hội Doanh nhân Thái Bình miền Nam chính thức ra mắt Quỹ Trái tim Thái Bình</desc>
-	</programme>
-	<programme start="20251010153000 +0700" stop="20251010160000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Giao thông 365</title>
-	</programme>
-	<programme start="20251010160000 +0700" stop="20251010161000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011160000 +0700" stop="20251011161000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Pháp</title>
-		<desc lang="vi">Actualités Françaises 10/10/2025</desc>
+		<desc lang="vi">Banque mondiale : soutien renforcé au Vietnam pour les grands projets d’infrastructures</desc>
 	</programme>
-	<programme start="20251010161000 +0700" stop="20251010164500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011161000 +0700" stop="20251011164500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Trực tiếp: Xổ số kiến thiết</title>
 	</programme>
-	<programme start="20251010164500 +0700" stop="20251010170000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011164500 +0700" stop="20251011170000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Những tấm gương học tập Bác</title>
-		<desc lang="vi">Cô giáo Võ Thị Thiều Hoa thấm nhuần và vận dụng tốt những lời Bác dạy</desc>
+		<desc lang="vi">Ông Võ Văn Nhanh - Học tập Bác để xây dựng Hội Cựu chiến binh vững mạnh</desc>
 	</programme>
-	<programme start="20251010170000 +0700" stop="20251010174500 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011170000 +0700" stop="20251011174500 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Thời sự 45p</title>
 	</programme>
-	<programme start="20251010174500 +0700" stop="20251010180000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Lăng kính đa chiều</title>
-		<desc lang="vi">Thủ tướng Chính phủ Phạm Minh Chính : Giáo dục và đào tạo là quyết sách hàng đầu.</desc>
+	<programme start="20251011174500 +0700" stop="20251011180000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">BHXH, BHYT - Những điều cần biết</title>
+		<desc lang="vi">Bảo hiểm xã hội - Bảo hiểm y tế ngày 2/10/2025</desc>
 	</programme>
-	<programme start="20251010180000 +0700" stop="20251010183000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011180000 +0700" stop="20251011183000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">VOH thịnh hành</title>
+		<desc lang="vi">Thủ tướng yêu cầu doanh nghiệp Nhà nước khẩn trương báo cáo kết quả kinh doanh</desc>
 	</programme>
-	<programme start="20251010183000 +0700" stop="20251010190000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011183000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Nông thôn mới</title>
-		<desc lang="vi">Nông thôn mới 10-10-2025</desc>
+		<desc lang="vi">Nông thôn mới 11-10-2025</desc>
 	</programme>
-	<programme start="20251010190000 +0700" stop="20251010191000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011190000 +0700" stop="20251011191000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Chăm</title>
+		<desc lang="vi">Samar drah daong ka 4 tinh taom bala ribuk ia sua ramik pasiam hadei ribuk</desc>
 	</programme>
-	<programme start="20251010191000 +0700" stop="20251010192000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011191000 +0700" stop="20251011192000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Quảng Đông</title>
 		<desc lang="vi">胡志明市着力开发新型旅游产品---10/10/2025</desc>
 	</programme>
-	<programme start="20251010192000 +0700" stop="20251010193000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011192000 +0700" stop="20251011193000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Tiếng Bắc Kinh</title>
 		<desc lang="vi">胡志明市跃升为超级都市的关键因素 - 10/10/2025</desc>
 	</programme>
-	<programme start="20251010193000 +0700" stop="20251010200000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Nhịp sống đô thị</title>
+	<programme start="20251011193000 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Nhân lực và phát triển</title>
+		<desc lang="vi">METALEX Vietnam 2025: Cầu nối chiến lược, hỗ trợ DN hội nhập sâu vào chuỗi cung ứng toàn cầu</desc>
 	</programme>
-	<programme start="20251010200000 +0700" stop="20251010210000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011200000 +0700" stop="20251011210000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Nông thôn</title>
-		<desc lang="vi">Trồng 40.000 cây nhàu, tỷ phú nông dân thu nhập hơn 100 triệu đồng/tháng.</desc>
+		<desc lang="vi">Hợp tác xã ở Cà Mau trồng mướp hương, thơm khắp đồng, ra nhiều trái</desc>
 	</programme>
-	<programme start="20251010210000 +0700" stop="20251010213000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011210000 +0700" stop="20251011213000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Giải mã thị trường</title>
-		<desc lang="vi">IMF: Lạm phát toàn cầu diễn biến trái chiều, kinh tế Mỹ và Trung Quốc chịu tác động khác biệt</desc>
 	</programme>
-	<programme start="20251010213000 +0700" stop="20251010220000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Doanh nghiệp hội nhập</title>
-		<desc lang="vi">“CHỦ TỊCH HỒ CHÍ MINH VỚI DOANH NGHIỆP, DOANH NHÂN – TỪ KÝ ỨC ĐẾN KHÁT VỌNG VƯƠN MÌNH KIẾN QUỐC"</desc>
+	<programme start="20251011213000 +0700" stop="20251011220000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Giao lưu cuối tuần</title>
+		<desc lang="vi">Giao lưu cuối tuần  ngày 4/10/2025 </desc>
 	</programme>
-	<programme start="20251010220000 +0700" stop="20251010223000 +0700" channel="dai-phat-thanh-VOH-610KHz">
-		<title lang="vi">Theo dòng thời sự</title>
-		<desc lang="vi">Quán quân sau mỗi cuộc thi - Bước qua vùng an toàn để thành công</desc>
+	<programme start="20251011220000 +0700" stop="20251011223000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+		<title lang="vi">Câu chuyện cuộc sống</title>
 	</programme>
-	<programme start="20251010223000 +0700" stop="20251010230000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011223000 +0700" stop="20251011230000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Đào tạo từ xa</title>
-		<desc lang="vi">Đào tạo từ xa 22h30 ngày 101025</desc>
+		<desc lang="vi">Đào tạo từ xa 22h30 ngày 111025</desc>
 	</programme>
-	<programme start="20251010230000 +0700" stop="20251010233000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011230000 +0700" stop="20251011233000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Chuyển động 30/7</title>
 	</programme>
-	<programme start="20251010233000 +0700" stop="20251011000000 +0700" channel="dai-phat-thanh-VOH-610KHz">
+	<programme start="20251011233000 +0700" stop="20251012000000 +0700" channel="dai-phat-thanh-VOH-610KHz">
 		<title lang="vi">Đọc truyện đêm khuya</title>
-		<desc lang="vi">Chuyện xóm cũ - Đẹp hơn hoa hồng</desc>
+		<desc lang="vi">Chuyện tình trên phá Tam Giang </desc>
 	</programme>
-	<programme start="20251010040000 +0700" stop="20251010053000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011040000 +0700" stop="20251011053000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Nhạc Việt Nam</title>
 		<desc lang="vi">Nhạc Việt Nam</desc>
 	</programme>
-	<programme start="20251010053000 +0700" stop="20251010063000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011053000 +0700" stop="20251011063000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Nhạc quốc tế</title>
 		<desc lang="vi">Nhạc quốc tế</desc>
 	</programme>
-	<programme start="20251010063000 +0700" stop="20251010081500 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011063000 +0700" stop="20251011081500 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">GIỜ CAO ĐIỂM SÁNG</title>
 		<desc lang="vi">GIỜ CAO ĐIỂM SÁNG</desc>
 	</programme>
-	<programme start="20251010081500 +0700" stop="20251010091500 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011081500 +0700" stop="20251011091500 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">GIỜ CAO ĐIỂM SÁNG</title>
 		<desc lang="vi">GIỜ CAO ĐIỂM SÁNG</desc>
 	</programme>
-	<programme start="20251010091500 +0700" stop="20251010103000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011091500 +0700" stop="20251011103000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Đời sống thị thành</title>
 		<desc lang="vi">Đời sống thị thành</desc>
 	</programme>
-	<programme start="20251010103000 +0700" stop="20251010120000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011103000 +0700" stop="20251011120000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">GIỜ CAO ĐIỂM TRƯA</title>
 		<desc lang="vi">GIỜ CAO ĐIỂM TRƯA</desc>
 	</programme>
-	<programme start="20251010123000 +0700" stop="20251010143000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011123000 +0700" stop="20251011143000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Ca nhạc: Đường tình ca - Trên mọi nẻo đường</title>
 		<desc lang="vi">Ca nhạc: Đường tình ca - Trên mọi nẻo đường</desc>
 	</programme>
-	<programme start="20251010143000 +0700" stop="20251010163000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011143000 +0700" stop="20251011163000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">FM91 - Buổi chiều</title>
 		<desc lang="vi">FM91 - Buổi chiều</desc>
 	</programme>
-	<programme start="20251010163000 +0700" stop="20251010194000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011163000 +0700" stop="20251011194000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">GIỜ CAO ĐIỂM CHIỀU</title>
 		<desc lang="vi">GIỜ CAO ĐIỂM CHIỀU</desc>
 	</programme>
-	<programme start="20251010194000 +0700" stop="20251010200000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011194000 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">FM Bất động sản</title>
 		<desc lang="vi">FM Bất động sản</desc>
 	</programme>
-	<programme start="20251010200000 +0700" stop="20251010213000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011200000 +0700" stop="20251011213000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Kết nối yêu thương -  nhập sóng - HN</title>
 		<desc lang="vi">Kết nối yêu thương -  nhập sóng - HN</desc>
 	</programme>
-	<programme start="20251010213000 +0700" stop="20251010230000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011213000 +0700" stop="20251011230000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Đường tin 91 - Đường Khuya</title>
 		<desc lang="vi">Đường tin 91 - Đường Khuya</desc>
 	</programme>
-	<programme start="20251010230000 +0700" stop="20251011000000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
+	<programme start="20251011230000 +0700" stop="20251012000000 +0700" channel="dai-phat-thanh-VOV-GT-HN">
 		<title lang="vi">Ca nhạc theo yêu cầu</title>
 		<desc lang="vi">Ca nhạc theo yêu cầu</desc>
 	</programme>
-	<programme start="20251010040000 +0700" stop="20251010050000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011040000 +0700" stop="20251011050000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Nhạc quốc tế</title>
 		<desc lang="vi">Nhạc quốc tế</desc>
 	</programme>
-	<programme start="20251010050000 +0700" stop="20251010063000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011050000 +0700" stop="20251011063000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Nhạc Việt Nam</title>
 		<desc lang="vi">Nhạc Việt Nam</desc>
 	</programme>
-	<programme start="20251010063000 +0700" stop="20251010080000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011063000 +0700" stop="20251011080000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Giờ cao điếm sáng 1 (6h30 – 9h00)</title>
 		<desc lang="vi">Giờ cao điếm sáng 1 (6h30 – 9h00)</desc>
 	</programme>
-	<programme start="20251010090000 +0700" stop="20251010103000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011090000 +0700" stop="20251011103000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Đời sống thị thành</title>
 		<desc lang="vi">Đời sống thị thành</desc>
 	</programme>
-	<programme start="20251010103000 +0700" stop="20251010110000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011103000 +0700" stop="20251011110000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Giờ cao điếm trưa 1 (10h30 – 12h00)</title>
 		<desc lang="vi">Giờ cao điếm trưa 1 (10h30 – 12h00)</desc>
 	</programme>
-	<programme start="20251010120000 +0700" stop="20251010123000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011120000 +0700" stop="20251011123000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Ca nhạc log khô chuyên đề</title>
 		<desc lang="vi">Ca nhạc log khô chuyên đề</desc>
 	</programme>
-	<programme start="20251010123000 +0700" stop="20251010143000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011123000 +0700" stop="20251011143000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Ca nhạc: Đường tình ca -Trên mọi nẻo đường</title>
 		<desc lang="vi">Ca nhạc: Đường tình ca -Trên mọi nẻo đường</desc>
 	</programme>
-	<programme start="20251010143000 +0700" stop="20251010161500 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011143000 +0700" stop="20251011161500 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">FM91 Chiều</title>
 		<desc lang="vi">FM91 Chiều</desc>
 	</programme>
-	<programme start="20251010163000 +0700" stop="20251010190000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011163000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Giờ Cao điểm chiều 1(16h30 – 19h00)</title>
 		<desc lang="vi">Giờ Cao điểm chiều 1(16h30 – 19h00)</desc>
 	</programme>
-	<programme start="20251010190000 +0700" stop="20251010200000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011190000 +0700" stop="20251011200000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">FM Bất động sản</title>
 		<desc lang="vi">FM Bất động sản</desc>
 	</programme>
-	<programme start="20251010200000 +0700" stop="20251010201500 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011200000 +0700" stop="20251011201500 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Góc nhìn NhậtBản</title>
 		<desc lang="vi">Góc nhìn NhậtBản</desc>
 	</programme>
-	<programme start="20251010201500 +0700" stop="20251010213000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011201500 +0700" stop="20251011213000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Kết nối yêu thương</title>
 		<desc lang="vi">Kết nối yêu thương</desc>
 	</programme>
-	<programme start="20251010213000 +0700" stop="20251010230000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011213000 +0700" stop="20251011230000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Đường tin 91 - Đường Khuya</title>
 		<desc lang="vi">Đường tin 91 - Đường Khuya</desc>
 	</programme>
-	<programme start="20251010230000 +0700" stop="20251011000000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
+	<programme start="20251011230000 +0700" stop="20251012000000 +0700" channel="dai-phat-thanh-VOV-GT-HCM">
 		<title lang="vi">Quà tặng âm nhạc 3</title>
 		<desc lang="vi">Quà tặng âm nhạc 3</desc>
 	</programme>
-	<programme start="20251010060000 +0700" stop="20251010070000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011060000 +0700" stop="20251011070000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Bình minh châu thổ - Chào ngày mới - Bản tin thế giới - Quà tặng âm nhạc</title>
 		<desc lang="vi">Bình minh châu thổ - Chào ngày mới - Bản tin thế giới - Quà tặng âm nhạc</desc>
 	</programme>
-	<programme start="20251010070000 +0700" stop="20251010080000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011070000 +0700" stop="20251011080000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Bình minh châu thổ - Thị trường -Điểm tâm - Chuyện đồng bằng - Sáng ngã 3 ngã 7</title>
 		<desc lang="vi">Bình minh châu thổ - Thị trường -Điểm tâm - Chuyện đồng bằng - Sáng ngã 3 ngã 7</desc>
 	</programme>
-	<programme start="20251010080000 +0700" stop="20251010090000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011080000 +0700" stop="20251011090000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Bình minh châu thổ - Tin phương Nam - Quà tặng âm nhạc - Mùa nàm thức nấy</title>
 		<desc lang="vi">Bình minh châu thổ - Tin phương Nam - Quà tặng âm nhạc - Mùa nàm thức nấy</desc>
 	</programme>
-	<programme start="20251010103000 +0700" stop="20251010120000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011103000 +0700" stop="20251011120000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Đứng bóng mặt trời</title>
 		<desc lang="vi">Đứng bóng mặt trời</desc>
 	</programme>
-	<programme start="20251010140000 +0700" stop="20251010163000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011140000 +0700" stop="20251011163000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Quà tặng âm nhạc 2</title>
 		<desc lang="vi">Quà tặng âm nhạc 2</desc>
 	</programme>
-	<programme start="20251010163000 +0700" stop="20251010180000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011163000 +0700" stop="20251011180000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Đường về hoàng hôn - Kết quả xổ số - Ngã 3 ngã 7 - Tin phương Nam - Quê nhà yêu dấu</title>
 		<desc lang="vi">Đường về hoàng hôn - Kết quả xổ số - Ngã 3 ngã 7 - Tin phương Nam - Quê nhà yêu dấu</desc>
 	</programme>
-	<programme start="20251010180000 +0700" stop="20251010190000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
+	<programme start="20251011180000 +0700" stop="20251011190000 +0700" channel="dai-phat-thanh-VOV-Mekong-FM-90Mhz">
 		<title lang="vi">Đường về hoàng hôn - Bản tin miền Tây - Điểm hẹn văn hóa - Ca nhạc chiều quê hương - Giao thông toàn cảnh</title>
 		<desc lang="vi">Đường về hoàng hôn - Bản tin miền Tây - Điểm hẹn văn hóa - Ca nhạc chiều quê hương - Giao thông toàn cảnh</desc>
 	</programme>
